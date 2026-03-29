@@ -1,5 +1,7 @@
 # Job Analyzer
 
+**Live Demo:** https://job-analysis-blond.vercel.app/
+
 A job matching analysis system for job seekers. Analyzes candidate background and job descriptions to generate structured reports with match conclusions, gap diagnosis, work simulations, improvement suggestions, and job search strategies.
 
 ---
