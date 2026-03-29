@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/job-analysis/',
+  base: './',
   server: {
     port: 3002,
     open: true,
