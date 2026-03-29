@@ -1,0 +1,19 @@
+node_modules
+dist
+.env
+*.local
+.env.example
+
+# OCR data files (not needed for deployment)
+*.traineddata
+
+# Documentation (keep only README.md)
+AGENTS.md
+ARCHITECTURE.md
+CONTEXT.md
+DECISIONS.md
+PROMPTS.md
+SCHEMAS.md
+STATUS.md
+product_brief.md
+tasks/
